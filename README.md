@@ -10,3 +10,5 @@ This is a change
 Some more changes to get to 6
 
 final changes to get to 6
+
+This is a change added by John Borghi. 
